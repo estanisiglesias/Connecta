@@ -1,0 +1,13 @@
+C:\UVe\Aplicacions\Connecta\source\ConnectaLib\bin\Release\ConnectaLib.dll
+C:\UVe\Aplicacions\Connecta\source\ConnectaLib\bin\Release\ConnectaLib.pdb
+C:\UVe\Aplicacions\Connecta\source\ConnectaLib\bin\Release\HtmlAgilityPack.dll
+C:\UVe\Aplicacions\Connecta\source\ConnectaLib\obj\Release\ConnectaLib.dll
+C:\UVe\Aplicacions\Connecta\source\ConnectaLib\obj\Release\ConnectaLib.pdb
+C:\UVe\Aplicacions\Connecta\source\ConnectaLib\bin\Release\NCalc.dll
+C:\UVe\Aplicacions\Connecta - copia\source\ConnectaLib\bin\Release\ConnectaLib.dll
+C:\UVe\Aplicacions\Connecta - copia\source\ConnectaLib\bin\Release\ConnectaLib.pdb
+C:\UVe\Aplicacions\Connecta - copia\source\ConnectaLib\bin\Release\HtmlAgilityPack.dll
+C:\UVe\Aplicacions\Connecta - copia\source\ConnectaLib\bin\Release\NCalc.dll
+C:\UVe\Aplicacions\Connecta - copia\source\ConnectaLib\obj\Release\ConnectaLib.dll
+C:\UVe\Aplicacions\Connecta - copia\source\ConnectaLib\obj\Release\ConnectaLib.pdb
+C:\UVe\Aplicacions\Connecta - copia\source\ConnectaLib\obj\Release\ConnectaLib.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\UVe\Aplicacions\Connecta\source\ConnectaLib\bin\Debug\ConnectaLib.dll
+C:\UVe\Aplicacions\Connecta\source\ConnectaLib\bin\Debug\ConnectaLib.pdb
+C:\UVe\Aplicacions\Connecta\source\ConnectaLib\bin\Debug\EPPlus.dll
+C:\UVe\Aplicacions\Connecta\source\ConnectaLib\obj\Debug\ConnectaLib.dll
+C:\UVe\Aplicacions\Connecta\source\ConnectaLib\obj\Debug\ConnectaLib.pdb
+C:\UVe\Aplicacions\Connecta\source\ConnectaLib\bin\Debug\NPOI.dll
+C:\Uve\Aplicacions\Connecta\source\ConnectaLib\obj\Debug\ConnectaLib.csprojResolveAssemblyReference.cache
+C:\UVe\Aplicacions\Connecta\source\ConnectaLib\bin\Debug\NCalc.dll
+C:\UVe\Aplicacions\Connecta - copia\source\ConnectaLib\obj\Debug\ConnectaLib.dll
+C:\UVe\Aplicacions\Connecta - copia\source\ConnectaLib\bin\Debug\ConnectaLib.dll
+C:\UVe\Aplicacions\Connecta - copia\source\ConnectaLib\bin\Debug\ConnectaLib.pdb
+C:\UVe\Aplicacions\Connecta - copia\source\ConnectaLib\bin\Debug\EPPlus.dll
+C:\UVe\Aplicacions\Connecta - copia\source\ConnectaLib\bin\Debug\NCalc.dll
+C:\UVe\Aplicacions\Connecta - copia\source\ConnectaLib\bin\Debug\NPOI.dll
+C:\UVe\Aplicacions\Connecta - copia\source\ConnectaLib\obj\Debug\ConnectaLib.pdb
+C:\UVe\Aplicacions\Connecta - copia\source\ConnectaLib\obj\Debug\ConnectaLib.csprojResolveAssemblyReference.cache

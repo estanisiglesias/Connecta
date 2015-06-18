@@ -1,0 +1,26 @@
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgent\bin\Release\uveFTPAgent.exe.config
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgent\bin\Release\uveFTPAgent.exe
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgent\bin\Release\uveFTPAgent.pdb
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgent\bin\Release\ConnectaLib.dll
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgent\bin\Release\NPOI.dll
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgent\bin\Release\EPPlus.dll
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgent\bin\Release\HtmlAgilityPack.dll
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgent\bin\Release\NCalc.dll
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgent\bin\Release\Ionic.Zip.dll
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgent\bin\Release\ConnectaLib.pdb
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgent\obj\Release\uveFTPAgent.csprojResolveAssemblyReference.cache
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgent\obj\Release\uveFTPAgent.exe
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgent\obj\Release\uveFTPAgent.pdb
+C:\UVe\Aplicacions\Connecta - copia\source\uveFTPAgent\bin\Release\uveFTPAgent.exe.config
+C:\UVe\Aplicacions\Connecta - copia\source\uveFTPAgent\bin\Release\uveFTPAgent.exe
+C:\UVe\Aplicacions\Connecta - copia\source\uveFTPAgent\bin\Release\uveFTPAgent.pdb
+C:\UVe\Aplicacions\Connecta - copia\source\uveFTPAgent\bin\Release\ConnectaLib.dll
+C:\UVe\Aplicacions\Connecta - copia\source\uveFTPAgent\bin\Release\NPOI.dll
+C:\UVe\Aplicacions\Connecta - copia\source\uveFTPAgent\bin\Release\EPPlus.dll
+C:\UVe\Aplicacions\Connecta - copia\source\uveFTPAgent\bin\Release\HtmlAgilityPack.dll
+C:\UVe\Aplicacions\Connecta - copia\source\uveFTPAgent\bin\Release\NCalc.dll
+C:\UVe\Aplicacions\Connecta - copia\source\uveFTPAgent\bin\Release\Ionic.Zip.dll
+C:\UVe\Aplicacions\Connecta - copia\source\uveFTPAgent\bin\Release\ConnectaLib.pdb
+C:\UVe\Aplicacions\Connecta - copia\source\uveFTPAgent\obj\Release\uveFTPAgent.csprojResolveAssemblyReference.cache
+C:\UVe\Aplicacions\Connecta - copia\source\uveFTPAgent\obj\Release\uveFTPAgent.exe
+C:\UVe\Aplicacions\Connecta - copia\source\uveFTPAgent\obj\Release\uveFTPAgent.pdb

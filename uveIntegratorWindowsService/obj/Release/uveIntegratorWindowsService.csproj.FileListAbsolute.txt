@@ -1,0 +1,30 @@
+C:\UVe\Aplicacions\Connecta\source\uveIntegratorWindowsService\bin\Release\uveIntegratorWindowsService.exe.config
+C:\UVe\Aplicacions\Connecta\source\uveIntegratorWindowsService\bin\Release\uveIntegratorWindowsService.exe
+C:\UVe\Aplicacions\Connecta\source\uveIntegratorWindowsService\bin\Release\uveIntegratorWindowsService.pdb
+C:\UVe\Aplicacions\Connecta\source\uveIntegratorWindowsService\bin\Release\uveIntegrator.exe
+C:\UVe\Aplicacions\Connecta\source\uveIntegratorWindowsService\bin\Release\ConnectaLib.dll
+C:\UVe\Aplicacions\Connecta\source\uveIntegratorWindowsService\bin\Release\NPOI.dll
+C:\UVe\Aplicacions\Connecta\source\uveIntegratorWindowsService\bin\Release\EPPlus.dll
+C:\UVe\Aplicacions\Connecta\source\uveIntegratorWindowsService\bin\Release\HtmlAgilityPack.dll
+C:\UVe\Aplicacions\Connecta\source\uveIntegratorWindowsService\bin\Release\NCalc.dll
+C:\UVe\Aplicacions\Connecta\source\uveIntegratorWindowsService\bin\Release\Ionic.Zip.dll
+C:\UVe\Aplicacions\Connecta\source\uveIntegratorWindowsService\bin\Release\uveIntegrator.pdb
+C:\UVe\Aplicacions\Connecta\source\uveIntegratorWindowsService\bin\Release\ConnectaLib.pdb
+C:\UVe\Aplicacions\Connecta\source\uveIntegratorWindowsService\obj\Release\uveIntegratorWindowsService.csprojResolveAssemblyReference.cache
+C:\UVe\Aplicacions\Connecta\source\uveIntegratorWindowsService\obj\Release\uveIntegratorWindowsService.exe
+C:\UVe\Aplicacions\Connecta\source\uveIntegratorWindowsService\obj\Release\uveIntegratorWindowsService.pdb
+C:\UVe\Aplicacions\Connecta - copia\source\uveIntegratorWindowsService\bin\Release\uveIntegratorWindowsService.exe.config
+C:\UVe\Aplicacions\Connecta - copia\source\uveIntegratorWindowsService\bin\Release\uveIntegratorWindowsService.exe
+C:\UVe\Aplicacions\Connecta - copia\source\uveIntegratorWindowsService\bin\Release\uveIntegratorWindowsService.pdb
+C:\UVe\Aplicacions\Connecta - copia\source\uveIntegratorWindowsService\bin\Release\uveIntegrator.exe
+C:\UVe\Aplicacions\Connecta - copia\source\uveIntegratorWindowsService\bin\Release\ConnectaLib.dll
+C:\UVe\Aplicacions\Connecta - copia\source\uveIntegratorWindowsService\bin\Release\Ionic.Zip.dll
+C:\UVe\Aplicacions\Connecta - copia\source\uveIntegratorWindowsService\bin\Release\uveIntegrator.pdb
+C:\UVe\Aplicacions\Connecta - copia\source\uveIntegratorWindowsService\bin\Release\ConnectaLib.pdb
+C:\UVe\Aplicacions\Connecta - copia\source\uveIntegratorWindowsService\obj\Release\uveIntegratorWindowsService.csprojResolveAssemblyReference.cache
+C:\UVe\Aplicacions\Connecta - copia\source\uveIntegratorWindowsService\obj\Release\uveIntegratorWindowsService.exe
+C:\UVe\Aplicacions\Connecta - copia\source\uveIntegratorWindowsService\obj\Release\uveIntegratorWindowsService.pdb
+C:\UVe\Aplicacions\Connecta - copia\source\uveIntegratorWindowsService\bin\Release\NPOI.dll
+C:\UVe\Aplicacions\Connecta - copia\source\uveIntegratorWindowsService\bin\Release\EPPlus.dll
+C:\UVe\Aplicacions\Connecta - copia\source\uveIntegratorWindowsService\bin\Release\HtmlAgilityPack.dll
+C:\UVe\Aplicacions\Connecta - copia\source\uveIntegratorWindowsService\bin\Release\NCalc.dll

@@ -1,0 +1,15 @@
+﻿Installing assembly 'C:\works\UveIntegrator\UveIntegrator\FtpAgentWindowsService\bin\Debug\FtpAgentWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\works\UveIntegrator\UveIntegrator\FtpAgentWindowsService\bin\Debug\FtpAgentWindowsService.exe
+   i = 
+   logfile = C:\works\UveIntegrator\UveIntegrator\FtpAgentWindowsService\bin\Debug\FtpAgentWindowsService.InstallLog
+Installing service UVE Ftp Agent Service...
+Service UVE Ftp Agent Service has been successfully installed.
+Creating EventLog source UVE Ftp Agent Service in log Application...
+Committing assembly 'C:\works\UveIntegrator\UveIntegrator\FtpAgentWindowsService\bin\Debug\FtpAgentWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\works\UveIntegrator\UveIntegrator\FtpAgentWindowsService\bin\Debug\FtpAgentWindowsService.exe
+   i = 
+   logfile = C:\works\UveIntegrator\UveIntegrator\FtpAgentWindowsService\bin\Debug\FtpAgentWindowsService.InstallLog

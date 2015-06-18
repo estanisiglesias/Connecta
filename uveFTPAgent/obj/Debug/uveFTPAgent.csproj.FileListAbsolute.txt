@@ -1,0 +1,13 @@
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgent\bin\Debug\uveFTPAgent.exe.config
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgent\bin\Debug\uveFTPAgent.exe
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgent\bin\Debug\uveFTPAgent.pdb
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgent\bin\Debug\ConnectaLib.dll
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgent\bin\Debug\EPPlus.dll
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgent\bin\Debug\Ionic.Zip.dll
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgent\bin\Debug\ConnectaLib.pdb
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgent\obj\Debug\uveFTPAgent.exe
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgent\obj\Debug\uveFTPAgent.pdb
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgent\bin\Debug\NPOI.dll
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgent\bin\Debug\HtmlAgilityPack.dll
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgent\obj\Debug\uveFTPAgent.csprojResolveAssemblyReference.cache
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgent\bin\Debug\NCalc.dll

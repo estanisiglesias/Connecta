@@ -1,0 +1,169 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uveIntegrator", "uveIntegrator\uveIntegrator.csproj", "{D998C345-FC8E-4C6F-95FB-1743AD9D936F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uveIntegratorWindowsService", "uveIntegratorWindowsService\uveIntegratorWindowsService.csproj", "{3FAFACEC-B400-4088-9ABF-ACACADA751B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectaLib", "ConnectaLib\ConnectaLib.csproj", "{3F6DA898-FAA2-4783-A51A-4A1F0FB6B42A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "xsdOficial", "xsdOficial", "{E32332E8-BB95-463E-9E64-55D87206B1ED}"
+	ProjectSection(SolutionItems) = preProject
+		xsdOficial\schActividadesAgente.xsd = xsdOficial\schActividadesAgente.xsd
+		xsdOficial\schActividadesData.xsd = xsdOficial\schActividadesData.xsd
+		xsdOficial\schAlbaranesDistribuidor.xsd = xsdOficial\schAlbaranesDistribuidor.xsd
+		xsdOficial\schAlbaranesParaFabricante.xsd = xsdOficial\schAlbaranesParaFabricante.xsd
+		xsdOficial\schClasificacionesDistribuidor.xsd = xsdOficial\schClasificacionesDistribuidor.xsd
+		xsdOficial\schClasificacionesFabricante.xsd = xsdOficial\schClasificacionesFabricante.xsd
+		xsdOficial\schClasificacionesParaFabricante.xsd = xsdOficial\schClasificacionesParaFabricante.xsd
+		xsdOficial\schClientesAlbaranesParaFabricante.xsd = xsdOficial\schClientesAlbaranesParaFabricante.xsd
+		xsdOficial\schClientesData.xsd = xsdOficial\schClientesData.xsd
+		xsdOficial\schClientesExtendedParaFabricante.xsd = xsdOficial\schClientesExtendedParaFabricante.xsd
+		xsdOficial\schClientesFinalesDistribuidor.xsd = xsdOficial\schClientesFinalesDistribuidor.xsd
+		xsdOficial\schClientesFinalesFabricante.xsd = xsdOficial\schClientesFinalesFabricante.xsd
+		xsdOficial\schClientesParaFabricante.xsd = xsdOficial\schClientesParaFabricante.xsd
+		xsdOficial\schComerciales.xsd = xsdOficial\schComerciales.xsd
+		xsdOficial\schControlEnviosDistribuidor.xsd = xsdOficial\schControlEnviosDistribuidor.xsd
+		xsdOficial\schDistribuidoresFabricante.xsd = xsdOficial\schDistribuidoresFabricante.xsd
+		xsdOficial\schEmpresasFabricante.xsd = xsdOficial\schEmpresasFabricante.xsd
+		xsdOficial\schEntregasDistribuidor.xsd = xsdOficial\schEntregasDistribuidor.xsd
+		xsdOficial\schEntregasParaFabricante.xsd = xsdOficial\schEntregasParaFabricante.xsd
+		xsdOficial\schFacturasDistribuidor.xsd = xsdOficial\schFacturasDistribuidor.xsd
+		xsdOficial\schFacturasExtendedParaFabricante.xsd = xsdOficial\schFacturasExtendedParaFabricante.xsd
+		xsdOficial\schFacturasFabricante.xsd = xsdOficial\schFacturasFabricante.xsd
+		xsdOficial\schFacturasParaFabricante.xsd = xsdOficial\schFacturasParaFabricante.xsd
+		xsdOficial\schHorariosFabricante.xsd = xsdOficial\schHorariosFabricante.xsd
+		xsdOficial\schInfoMercadoMarketer.xsd = xsdOficial\schInfoMercadoMarketer.xsd
+		xsdOficial\schJerarquiasFabricante.xsd = xsdOficial\schJerarquiasFabricante.xsd
+		xsdOficial\schLiquidacionesAcuerdosParaFabricante.xsd = xsdOficial\schLiquidacionesAcuerdosParaFabricante.xsd
+		xsdOficial\schNumericaCodigoPostalDistribuidor.xsd = xsdOficial\schNumericaCodigoPostalDistribuidor.xsd
+		xsdOficial\schNumericaRutaDistribuidor.xsd = xsdOficial\schNumericaRutaDistribuidor.xsd
+		xsdOficial\schPedidosDistribuidor.xsd = xsdOficial\schPedidosDistribuidor.xsd
+		xsdOficial\schPedidosParaFabricante.xsd = xsdOficial\schPedidosParaFabricante.xsd
+		xsdOficial\schPeticionesFabricante.xsd = xsdOficial\schPeticionesFabricante.xsd
+		xsdOficial\schPosicionamientoPdVFabricante.xsd = xsdOficial\schPosicionamientoPdVFabricante.xsd
+		xsdOficial\schPreciosFabricante.xsd = xsdOficial\schPreciosFabricante.xsd
+		xsdOficial\schProductosCompetidoresFabricante.xsd = xsdOficial\schProductosCompetidoresFabricante.xsd
+		xsdOficial\schProductosDistribuidor.xsd = xsdOficial\schProductosDistribuidor.xsd
+		xsdOficial\schProductosFabricante.xsd = xsdOficial\schProductosFabricante.xsd
+		xsdOficial\schProductosUMFabricante.xsd = xsdOficial\schProductosUMFabricante.xsd
+		xsdOficial\schPromocionesAgente.xsd = xsdOficial\schPromocionesAgente.xsd
+		xsdOficial\schReaprovisionamientosDistribuidor.xsd = xsdOficial\schReaprovisionamientosDistribuidor.xsd
+		xsdOficial\schReaprovisionamientosFabricante.xsd = xsdOficial\schReaprovisionamientosFabricante.xsd
+		xsdOficial\schReaprovisionamientosParaFabricante.xsd = xsdOficial\schReaprovisionamientosParaFabricante.xsd
+		xsdOficial\schRutas.xsd = xsdOficial\schRutas.xsd
+		xsdOficial\schSellInDistribuidoresFabricante.xsd = xsdOficial\schSellInDistribuidoresFabricante.xsd
+		xsdOficial\schStocksClienteDistribuidor.xsd = xsdOficial\schStocksClienteDistribuidor.xsd
+		xsdOficial\schStocksDistribuidor.xsd = xsdOficial\schStocksDistribuidor.xsd
+		xsdOficial\schStocksParaFabricante.xsd = xsdOficial\schStocksParaFabricante.xsd
+		xsdOficial\schSurtidosFabricante.xsd = xsdOficial\schSurtidosFabricante.xsd
+		xsdOficial\schTablasAgente.xsd = xsdOficial\schTablasAgente.xsd
+		xsdOficial\schUsuariosFabricante.xsd = xsdOficial\schUsuariosFabricante.xsd
+		xsdOficial\schVentaInternaFabricante.xsd = xsdOficial\schVentaInternaFabricante.xsd
+		xsdOficial\schVentasAcumClienteParaFabricante.xsd = xsdOficial\schVentasAcumClienteParaFabricante.xsd
+		xsdOficial\schVentasAcumMesParaFabricante.xsd = xsdOficial\schVentasAcumMesParaFabricante.xsd
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uveFTPAgent", "uveFTPAgent\uveFTPAgent.csproj", "{C8F75706-09D8-4851-AF3E-D7AFE96844B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uveFTPAgentWindowsService", "uveFTPAgentWindowsService\uveFTPAgentWindowsService.csproj", "{B885D58F-9D99-41CB-BDAB-F7166265DA98}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		release-admin|.NET = release-admin|.NET
+		release-admin|Any CPU = release-admin|Any CPU
+		release-admin|Mixed Platforms = release-admin|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D998C345-FC8E-4C6F-95FB-1743AD9D936F}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{D998C345-FC8E-4C6F-95FB-1743AD9D936F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D998C345-FC8E-4C6F-95FB-1743AD9D936F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D998C345-FC8E-4C6F-95FB-1743AD9D936F}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{D998C345-FC8E-4C6F-95FB-1743AD9D936F}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{D998C345-FC8E-4C6F-95FB-1743AD9D936F}.Release|.NET.ActiveCfg = Release|Any CPU
+		{D998C345-FC8E-4C6F-95FB-1743AD9D936F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D998C345-FC8E-4C6F-95FB-1743AD9D936F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D998C345-FC8E-4C6F-95FB-1743AD9D936F}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{D998C345-FC8E-4C6F-95FB-1743AD9D936F}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{D998C345-FC8E-4C6F-95FB-1743AD9D936F}.release-admin|.NET.ActiveCfg = Release|Any CPU
+		{D998C345-FC8E-4C6F-95FB-1743AD9D936F}.release-admin|Any CPU.ActiveCfg = Release|Any CPU
+		{D998C345-FC8E-4C6F-95FB-1743AD9D936F}.release-admin|Any CPU.Build.0 = Release|Any CPU
+		{D998C345-FC8E-4C6F-95FB-1743AD9D936F}.release-admin|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{D998C345-FC8E-4C6F-95FB-1743AD9D936F}.release-admin|Mixed Platforms.Build.0 = Release|Any CPU
+		{3FAFACEC-B400-4088-9ABF-ACACADA751B6}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{3FAFACEC-B400-4088-9ABF-ACACADA751B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FAFACEC-B400-4088-9ABF-ACACADA751B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FAFACEC-B400-4088-9ABF-ACACADA751B6}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{3FAFACEC-B400-4088-9ABF-ACACADA751B6}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{3FAFACEC-B400-4088-9ABF-ACACADA751B6}.Release|.NET.ActiveCfg = Release|Any CPU
+		{3FAFACEC-B400-4088-9ABF-ACACADA751B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FAFACEC-B400-4088-9ABF-ACACADA751B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FAFACEC-B400-4088-9ABF-ACACADA751B6}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{3FAFACEC-B400-4088-9ABF-ACACADA751B6}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{3FAFACEC-B400-4088-9ABF-ACACADA751B6}.release-admin|.NET.ActiveCfg = Release|Any CPU
+		{3FAFACEC-B400-4088-9ABF-ACACADA751B6}.release-admin|Any CPU.ActiveCfg = Release|Any CPU
+		{3FAFACEC-B400-4088-9ABF-ACACADA751B6}.release-admin|Any CPU.Build.0 = Release|Any CPU
+		{3FAFACEC-B400-4088-9ABF-ACACADA751B6}.release-admin|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{3FAFACEC-B400-4088-9ABF-ACACADA751B6}.release-admin|Mixed Platforms.Build.0 = Release|Any CPU
+		{3F6DA898-FAA2-4783-A51A-4A1F0FB6B42A}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{3F6DA898-FAA2-4783-A51A-4A1F0FB6B42A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F6DA898-FAA2-4783-A51A-4A1F0FB6B42A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F6DA898-FAA2-4783-A51A-4A1F0FB6B42A}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{3F6DA898-FAA2-4783-A51A-4A1F0FB6B42A}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{3F6DA898-FAA2-4783-A51A-4A1F0FB6B42A}.Release|.NET.ActiveCfg = Release|Any CPU
+		{3F6DA898-FAA2-4783-A51A-4A1F0FB6B42A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F6DA898-FAA2-4783-A51A-4A1F0FB6B42A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F6DA898-FAA2-4783-A51A-4A1F0FB6B42A}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{3F6DA898-FAA2-4783-A51A-4A1F0FB6B42A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{3F6DA898-FAA2-4783-A51A-4A1F0FB6B42A}.release-admin|.NET.ActiveCfg = Release|Any CPU
+		{3F6DA898-FAA2-4783-A51A-4A1F0FB6B42A}.release-admin|Any CPU.ActiveCfg = Release|Any CPU
+		{3F6DA898-FAA2-4783-A51A-4A1F0FB6B42A}.release-admin|Any CPU.Build.0 = Release|Any CPU
+		{3F6DA898-FAA2-4783-A51A-4A1F0FB6B42A}.release-admin|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{3F6DA898-FAA2-4783-A51A-4A1F0FB6B42A}.release-admin|Mixed Platforms.Build.0 = Release|Any CPU
+		{C8F75706-09D8-4851-AF3E-D7AFE96844B7}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{C8F75706-09D8-4851-AF3E-D7AFE96844B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8F75706-09D8-4851-AF3E-D7AFE96844B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8F75706-09D8-4851-AF3E-D7AFE96844B7}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{C8F75706-09D8-4851-AF3E-D7AFE96844B7}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{C8F75706-09D8-4851-AF3E-D7AFE96844B7}.Release|.NET.ActiveCfg = Release|Any CPU
+		{C8F75706-09D8-4851-AF3E-D7AFE96844B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8F75706-09D8-4851-AF3E-D7AFE96844B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8F75706-09D8-4851-AF3E-D7AFE96844B7}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{C8F75706-09D8-4851-AF3E-D7AFE96844B7}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{C8F75706-09D8-4851-AF3E-D7AFE96844B7}.release-admin|.NET.ActiveCfg = Release|Any CPU
+		{C8F75706-09D8-4851-AF3E-D7AFE96844B7}.release-admin|Any CPU.ActiveCfg = Release|Any CPU
+		{C8F75706-09D8-4851-AF3E-D7AFE96844B7}.release-admin|Any CPU.Build.0 = Release|Any CPU
+		{C8F75706-09D8-4851-AF3E-D7AFE96844B7}.release-admin|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{C8F75706-09D8-4851-AF3E-D7AFE96844B7}.release-admin|Mixed Platforms.Build.0 = Release|Any CPU
+		{B885D58F-9D99-41CB-BDAB-F7166265DA98}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{B885D58F-9D99-41CB-BDAB-F7166265DA98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B885D58F-9D99-41CB-BDAB-F7166265DA98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B885D58F-9D99-41CB-BDAB-F7166265DA98}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B885D58F-9D99-41CB-BDAB-F7166265DA98}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{B885D58F-9D99-41CB-BDAB-F7166265DA98}.Release|.NET.ActiveCfg = Release|Any CPU
+		{B885D58F-9D99-41CB-BDAB-F7166265DA98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B885D58F-9D99-41CB-BDAB-F7166265DA98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B885D58F-9D99-41CB-BDAB-F7166265DA98}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{B885D58F-9D99-41CB-BDAB-F7166265DA98}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{B885D58F-9D99-41CB-BDAB-F7166265DA98}.release-admin|.NET.ActiveCfg = Release|Any CPU
+		{B885D58F-9D99-41CB-BDAB-F7166265DA98}.release-admin|Any CPU.ActiveCfg = Release|Any CPU
+		{B885D58F-9D99-41CB-BDAB-F7166265DA98}.release-admin|Any CPU.Build.0 = Release|Any CPU
+		{B885D58F-9D99-41CB-BDAB-F7166265DA98}.release-admin|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{B885D58F-9D99-41CB-BDAB-F7166265DA98}.release-admin|Mixed Platforms.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

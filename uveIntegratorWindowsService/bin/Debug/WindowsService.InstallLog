@@ -1,0 +1,23 @@
+﻿Uninstalling assembly 'C:\works\UveIntegrator\UveIntegrator\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\works\UveIntegrator\UveIntegrator\WindowsService\bin\Debug\WindowsService.exe
+   logfile = C:\works\UveIntegrator\UveIntegrator\WindowsService\bin\Debug\WindowsService.InstallLog
+Removing EventLog source UVE Service.
+Service UVE Service is being removed from the system...
+Service UVE Service was successfully removed from the system.
+Installing assembly 'C:\works\UveIntegrator\UveIntegrator\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\works\UveIntegrator\UveIntegrator\WindowsService\bin\Debug\WindowsService.exe
+   i = 
+   logfile = C:\works\UveIntegrator\UveIntegrator\WindowsService\bin\Debug\WindowsService.InstallLog
+Installing service UVE Service...
+Service UVE Service has been successfully installed.
+Creating EventLog source UVE Service in log Application...
+Committing assembly 'C:\works\UveIntegrator\UveIntegrator\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\works\UveIntegrator\UveIntegrator\WindowsService\bin\Debug\WindowsService.exe
+   i = 
+   logfile = C:\works\UveIntegrator\UveIntegrator\WindowsService\bin\Debug\WindowsService.InstallLog

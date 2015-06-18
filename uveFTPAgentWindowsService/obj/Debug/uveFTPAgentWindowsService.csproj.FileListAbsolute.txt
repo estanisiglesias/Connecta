@@ -1,0 +1,15 @@
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgentWindowsService\bin\Debug\uveFTPAgentWindowsService.exe.config
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgentWindowsService\bin\Debug\uveFTPAgentWindowsService.exe
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgentWindowsService\bin\Debug\uveFTPAgentWindowsService.pdb
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgentWindowsService\bin\Debug\uveFTPAgent.exe
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgentWindowsService\bin\Debug\ConnectaLib.dll
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgentWindowsService\bin\Debug\EPPlus.dll
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgentWindowsService\bin\Debug\Ionic.Zip.dll
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgentWindowsService\bin\Debug\uveFTPAgent.pdb
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgentWindowsService\bin\Debug\ConnectaLib.pdb
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgentWindowsService\obj\Debug\uveFTPAgentWindowsService.exe
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgentWindowsService\obj\Debug\uveFTPAgentWindowsService.pdb
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgentWindowsService\bin\Debug\NPOI.dll
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgentWindowsService\bin\Debug\HtmlAgilityPack.dll
+C:\Uve\Aplicacions\Connecta\source\uveFTPAgentWindowsService\obj\Debug\uveFTPAgentWindowsService.csprojResolveAssemblyReference.cache
+C:\UVe\Aplicacions\Connecta\source\uveFTPAgentWindowsService\bin\Debug\NCalc.dll

@@ -1,0 +1,26 @@
+C:\UVe\Aplicacions\Connecta\source\uveIntegrator\bin\Release\uveIntegrator.exe.config
+C:\UVe\Aplicacions\Connecta\source\uveIntegrator\bin\Release\uveIntegrator.exe
+C:\UVe\Aplicacions\Connecta\source\uveIntegrator\bin\Release\uveIntegrator.pdb
+C:\UVe\Aplicacions\Connecta\source\uveIntegrator\bin\Release\ConnectaLib.dll
+C:\UVe\Aplicacions\Connecta\source\uveIntegrator\bin\Release\NPOI.dll
+C:\UVe\Aplicacions\Connecta\source\uveIntegrator\bin\Release\EPPlus.dll
+C:\UVe\Aplicacions\Connecta\source\uveIntegrator\bin\Release\HtmlAgilityPack.dll
+C:\UVe\Aplicacions\Connecta\source\uveIntegrator\bin\Release\NCalc.dll
+C:\UVe\Aplicacions\Connecta\source\uveIntegrator\bin\Release\Ionic.Zip.dll
+C:\UVe\Aplicacions\Connecta\source\uveIntegrator\bin\Release\ConnectaLib.pdb
+C:\UVe\Aplicacions\Connecta\source\uveIntegrator\obj\Release\uveIntegrator.csprojResolveAssemblyReference.cache
+C:\UVe\Aplicacions\Connecta\source\uveIntegrator\obj\Release\uveIntegrator.exe
+C:\UVe\Aplicacions\Connecta\source\uveIntegrator\obj\Release\uveIntegrator.pdb
+C:\UVe\Aplicacions\Connecta - copia\source\uveIntegrator\bin\Release\uveIntegrator.exe.config
+C:\UVe\Aplicacions\Connecta - copia\source\uveIntegrator\obj\Release\uveIntegrator.exe
+C:\UVe\Aplicacions\Connecta - copia\source\uveIntegrator\obj\Release\uveIntegrator.pdb
+C:\UVe\Aplicacions\Connecta - copia\source\uveIntegrator\bin\Release\uveIntegrator.exe
+C:\UVe\Aplicacions\Connecta - copia\source\uveIntegrator\bin\Release\uveIntegrator.pdb
+C:\UVe\Aplicacions\Connecta - copia\source\uveIntegrator\bin\Release\ConnectaLib.dll
+C:\UVe\Aplicacions\Connecta - copia\source\uveIntegrator\bin\Release\Ionic.Zip.dll
+C:\UVe\Aplicacions\Connecta - copia\source\uveIntegrator\bin\Release\ConnectaLib.pdb
+C:\UVe\Aplicacions\Connecta - copia\source\uveIntegrator\obj\Release\uveIntegrator.csprojResolveAssemblyReference.cache
+C:\UVe\Aplicacions\Connecta - copia\source\uveIntegrator\bin\Release\NPOI.dll
+C:\UVe\Aplicacions\Connecta - copia\source\uveIntegrator\bin\Release\EPPlus.dll
+C:\UVe\Aplicacions\Connecta - copia\source\uveIntegrator\bin\Release\HtmlAgilityPack.dll
+C:\UVe\Aplicacions\Connecta - copia\source\uveIntegrator\bin\Release\NCalc.dll
