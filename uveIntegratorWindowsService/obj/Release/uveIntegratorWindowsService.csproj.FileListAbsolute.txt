@@ -28,3 +28,18 @@ C:\UVe\Aplicacions\Connecta - copia\source\uveIntegratorWindowsService\bin\Relea
 C:\UVe\Aplicacions\Connecta - copia\source\uveIntegratorWindowsService\bin\Release\EPPlus.dll
 C:\UVe\Aplicacions\Connecta - copia\source\uveIntegratorWindowsService\bin\Release\HtmlAgilityPack.dll
 C:\UVe\Aplicacions\Connecta - copia\source\uveIntegratorWindowsService\bin\Release\NCalc.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegratorWindowsService\bin\Release\uveIntegratorWindowsService.exe.config
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegratorWindowsService\bin\Release\uveIntegratorWindowsService.exe
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegratorWindowsService\bin\Release\uveIntegratorWindowsService.pdb
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegratorWindowsService\bin\Release\uveIntegrator.exe
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegratorWindowsService\bin\Release\ConnectaLib.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegratorWindowsService\bin\Release\NPOI.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegratorWindowsService\bin\Release\EPPlus.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegratorWindowsService\bin\Release\HtmlAgilityPack.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegratorWindowsService\bin\Release\NCalc.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegratorWindowsService\bin\Release\Ionic.Zip.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegratorWindowsService\bin\Release\uveIntegrator.pdb
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegratorWindowsService\bin\Release\ConnectaLib.pdb
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegratorWindowsService\obj\Release\uveIntegratorWindowsService.csprojResolveAssemblyReference.cache
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegratorWindowsService\obj\Release\uveIntegratorWindowsService.exe
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegratorWindowsService\obj\Release\uveIntegratorWindowsService.pdb

@@ -11,3 +11,10 @@ C:\UVe\Aplicacions\Connecta - copia\source\ConnectaLib\bin\Release\NCalc.dll
 C:\UVe\Aplicacions\Connecta - copia\source\ConnectaLib\obj\Release\ConnectaLib.dll
 C:\UVe\Aplicacions\Connecta - copia\source\ConnectaLib\obj\Release\ConnectaLib.pdb
 C:\UVe\Aplicacions\Connecta - copia\source\ConnectaLib\obj\Release\ConnectaLib.csprojResolveAssemblyReference.cache
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\ConnectaLib\bin\Release\ConnectaLib.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\ConnectaLib\bin\Release\ConnectaLib.pdb
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\ConnectaLib\bin\Release\HtmlAgilityPack.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\ConnectaLib\bin\Release\NCalc.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\ConnectaLib\obj\Release\ConnectaLib.csprojResolveAssemblyReference.cache
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\ConnectaLib\obj\Release\ConnectaLib.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\ConnectaLib\obj\Release\ConnectaLib.pdb

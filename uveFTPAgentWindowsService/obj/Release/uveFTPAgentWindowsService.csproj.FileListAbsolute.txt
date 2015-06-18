@@ -28,3 +28,18 @@ C:\UVe\Aplicacions\Connecta - copia\source\uveFTPAgentWindowsService\bin\Release
 C:\UVe\Aplicacions\Connecta - copia\source\uveFTPAgentWindowsService\obj\Release\uveFTPAgentWindowsService.csprojResolveAssemblyReference.cache
 C:\UVe\Aplicacions\Connecta - copia\source\uveFTPAgentWindowsService\obj\Release\uveFTPAgentWindowsService.exe
 C:\UVe\Aplicacions\Connecta - copia\source\uveFTPAgentWindowsService\obj\Release\uveFTPAgentWindowsService.pdb
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgentWindowsService\bin\Release\uveFTPAgentWindowsService.exe.config
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgentWindowsService\bin\Release\uveFTPAgentWindowsService.exe
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgentWindowsService\bin\Release\uveFTPAgentWindowsService.pdb
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgentWindowsService\bin\Release\uveFTPAgent.exe
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgentWindowsService\bin\Release\ConnectaLib.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgentWindowsService\bin\Release\NPOI.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgentWindowsService\bin\Release\EPPlus.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgentWindowsService\bin\Release\HtmlAgilityPack.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgentWindowsService\bin\Release\NCalc.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgentWindowsService\bin\Release\Ionic.Zip.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgentWindowsService\bin\Release\uveFTPAgent.pdb
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgentWindowsService\bin\Release\ConnectaLib.pdb
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgentWindowsService\obj\Release\uveFTPAgentWindowsService.csprojResolveAssemblyReference.cache
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgentWindowsService\obj\Release\uveFTPAgentWindowsService.exe
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgentWindowsService\obj\Release\uveFTPAgentWindowsService.pdb

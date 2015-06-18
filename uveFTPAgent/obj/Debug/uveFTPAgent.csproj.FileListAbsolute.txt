@@ -11,3 +11,16 @@ C:\UVe\Aplicacions\Connecta\source\uveFTPAgent\bin\Debug\NPOI.dll
 C:\UVe\Aplicacions\Connecta\source\uveFTPAgent\bin\Debug\HtmlAgilityPack.dll
 C:\UVe\Aplicacions\Connecta\source\uveFTPAgent\obj\Debug\uveFTPAgent.csprojResolveAssemblyReference.cache
 C:\UVe\Aplicacions\Connecta\source\uveFTPAgent\bin\Debug\NCalc.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgent\bin\Debug\uveFTPAgent.exe.config
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgent\bin\Debug\uveFTPAgent.exe
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgent\bin\Debug\uveFTPAgent.pdb
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgent\bin\Debug\ConnectaLib.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgent\bin\Debug\NPOI.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgent\bin\Debug\EPPlus.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgent\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgent\bin\Debug\NCalc.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgent\bin\Debug\Ionic.Zip.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgent\bin\Debug\ConnectaLib.pdb
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgent\obj\Debug\uveFTPAgent.csprojResolveAssemblyReference.cache
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgent\obj\Debug\uveFTPAgent.exe
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgent\obj\Debug\uveFTPAgent.pdb

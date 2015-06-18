@@ -24,3 +24,16 @@ C:\UVe\Aplicacions\Connecta - copia\source\uveFTPAgent\bin\Release\ConnectaLib.p
 C:\UVe\Aplicacions\Connecta - copia\source\uveFTPAgent\obj\Release\uveFTPAgent.csprojResolveAssemblyReference.cache
 C:\UVe\Aplicacions\Connecta - copia\source\uveFTPAgent\obj\Release\uveFTPAgent.exe
 C:\UVe\Aplicacions\Connecta - copia\source\uveFTPAgent\obj\Release\uveFTPAgent.pdb
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgent\bin\Release\uveFTPAgent.exe.config
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgent\bin\Release\uveFTPAgent.exe
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgent\bin\Release\uveFTPAgent.pdb
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgent\bin\Release\ConnectaLib.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgent\bin\Release\NPOI.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgent\bin\Release\EPPlus.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgent\bin\Release\HtmlAgilityPack.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgent\bin\Release\NCalc.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgent\bin\Release\Ionic.Zip.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgent\bin\Release\ConnectaLib.pdb
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgent\obj\Release\uveFTPAgent.csprojResolveAssemblyReference.cache
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgent\obj\Release\uveFTPAgent.exe
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgent\obj\Release\uveFTPAgent.pdb

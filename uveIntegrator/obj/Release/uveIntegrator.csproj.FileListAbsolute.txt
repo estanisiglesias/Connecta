@@ -24,3 +24,16 @@ C:\UVe\Aplicacions\Connecta - copia\source\uveIntegrator\bin\Release\NPOI.dll
 C:\UVe\Aplicacions\Connecta - copia\source\uveIntegrator\bin\Release\EPPlus.dll
 C:\UVe\Aplicacions\Connecta - copia\source\uveIntegrator\bin\Release\HtmlAgilityPack.dll
 C:\UVe\Aplicacions\Connecta - copia\source\uveIntegrator\bin\Release\NCalc.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegrator\bin\Release\uveIntegrator.exe.config
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegrator\obj\Release\uveIntegrator.exe
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegrator\obj\Release\uveIntegrator.pdb
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegrator\bin\Release\uveIntegrator.exe
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegrator\bin\Release\uveIntegrator.pdb
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegrator\bin\Release\ConnectaLib.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegrator\bin\Release\NPOI.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegrator\bin\Release\EPPlus.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegrator\bin\Release\HtmlAgilityPack.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegrator\bin\Release\NCalc.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegrator\bin\Release\Ionic.Zip.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegrator\bin\Release\ConnectaLib.pdb
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegrator\obj\Release\uveIntegrator.csprojResolveAssemblyReference.cache

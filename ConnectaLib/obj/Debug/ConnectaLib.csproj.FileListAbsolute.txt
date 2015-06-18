@@ -14,3 +14,10 @@ C:\UVe\Aplicacions\Connecta - copia\source\ConnectaLib\bin\Debug\NCalc.dll
 C:\UVe\Aplicacions\Connecta - copia\source\ConnectaLib\bin\Debug\NPOI.dll
 C:\UVe\Aplicacions\Connecta - copia\source\ConnectaLib\obj\Debug\ConnectaLib.pdb
 C:\UVe\Aplicacions\Connecta - copia\source\ConnectaLib\obj\Debug\ConnectaLib.csprojResolveAssemblyReference.cache
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\ConnectaLib\bin\Debug\ConnectaLib.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\ConnectaLib\bin\Debug\ConnectaLib.pdb
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\ConnectaLib\bin\Debug\EPPlus.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\ConnectaLib\bin\Debug\NCalc.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\ConnectaLib\bin\Debug\NPOI.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\ConnectaLib\obj\Debug\ConnectaLib.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\ConnectaLib\obj\Debug\ConnectaLib.pdb

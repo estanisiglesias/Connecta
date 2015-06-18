@@ -595,7 +595,7 @@ namespace ConnectaLib
     }
 
     /// <summary>Alineación de productos</summaryA></summary>
-    public string AlinearProducto(string idcAgenteDistr, string idcAgenteFab, string codigoProductoDistr, string codigoProductoFab)
+    public static string AlinearProducto(string idcAgenteDistr, string idcAgenteFab, string codigoProductoDistr, string codigoProductoFab)
     {
         bool Alineado = false;
         string resultado = null;

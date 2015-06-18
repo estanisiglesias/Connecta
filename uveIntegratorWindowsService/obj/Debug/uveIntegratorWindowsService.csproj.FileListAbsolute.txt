@@ -24,3 +24,18 @@ C:\UVe\Aplicacions\Connecta - copia\source\uveIntegratorWindowsService\bin\Debug
 C:\UVe\Aplicacions\Connecta - copia\source\uveIntegratorWindowsService\obj\Debug\uveIntegratorWindowsService.csprojResolveAssemblyReference.cache
 C:\UVe\Aplicacions\Connecta - copia\source\uveIntegratorWindowsService\obj\Debug\uveIntegratorWindowsService.exe
 C:\UVe\Aplicacions\Connecta - copia\source\uveIntegratorWindowsService\obj\Debug\uveIntegratorWindowsService.pdb
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegratorWindowsService\bin\Debug\uveIntegratorWindowsService.exe.config
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegratorWindowsService\bin\Debug\uveIntegratorWindowsService.exe
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegratorWindowsService\bin\Debug\uveIntegratorWindowsService.pdb
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegratorWindowsService\bin\Debug\uveIntegrator.exe
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegratorWindowsService\bin\Debug\ConnectaLib.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegratorWindowsService\bin\Debug\NPOI.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegratorWindowsService\bin\Debug\EPPlus.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegratorWindowsService\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegratorWindowsService\bin\Debug\NCalc.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegratorWindowsService\bin\Debug\Ionic.Zip.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegratorWindowsService\bin\Debug\uveIntegrator.pdb
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegratorWindowsService\bin\Debug\ConnectaLib.pdb
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegratorWindowsService\obj\Debug\uveIntegratorWindowsService.csprojResolveAssemblyReference.cache
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegratorWindowsService\obj\Debug\uveIntegratorWindowsService.exe
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveIntegratorWindowsService\obj\Debug\uveIntegratorWindowsService.pdb

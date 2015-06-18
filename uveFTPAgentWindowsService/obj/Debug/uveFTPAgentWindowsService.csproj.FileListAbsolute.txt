@@ -13,3 +13,18 @@ C:\UVe\Aplicacions\Connecta\source\uveFTPAgentWindowsService\bin\Debug\NPOI.dll
 C:\UVe\Aplicacions\Connecta\source\uveFTPAgentWindowsService\bin\Debug\HtmlAgilityPack.dll
 C:\Uve\Aplicacions\Connecta\source\uveFTPAgentWindowsService\obj\Debug\uveFTPAgentWindowsService.csprojResolveAssemblyReference.cache
 C:\UVe\Aplicacions\Connecta\source\uveFTPAgentWindowsService\bin\Debug\NCalc.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgentWindowsService\bin\Debug\uveFTPAgentWindowsService.exe.config
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgentWindowsService\bin\Debug\uveFTPAgentWindowsService.exe
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgentWindowsService\bin\Debug\uveFTPAgentWindowsService.pdb
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgentWindowsService\bin\Debug\uveFTPAgent.exe
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgentWindowsService\bin\Debug\ConnectaLib.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgentWindowsService\bin\Debug\NPOI.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgentWindowsService\bin\Debug\EPPlus.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgentWindowsService\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgentWindowsService\bin\Debug\NCalc.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgentWindowsService\bin\Debug\Ionic.Zip.dll
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgentWindowsService\bin\Debug\uveFTPAgent.pdb
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgentWindowsService\bin\Debug\ConnectaLib.pdb
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgentWindowsService\obj\Debug\uveFTPAgentWindowsService.csprojResolveAssemblyReference.cache
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgentWindowsService\obj\Debug\uveFTPAgentWindowsService.exe
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\uveFTPAgentWindowsService\obj\Debug\uveFTPAgentWindowsService.pdb

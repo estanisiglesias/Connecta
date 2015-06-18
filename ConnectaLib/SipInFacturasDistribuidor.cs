@@ -1306,7 +1306,7 @@ namespace ConnectaLib
     /// </summary>
     /// <param name="pd">objeto</param>
     public void ProcessSlave(CommonRecord rec)
-    {               
+    {       
         RecordLineasFacturasDistribuidor linea = (RecordLineasFacturasDistribuidor)rec;
         string sql = "";
         Log2 log = Globals.GetInstance().GetLog2();
