@@ -191,7 +191,11 @@ namespace ConnectaLib
             if (o is System.DBNull)
                 val = "";
             else
-                val = rs.GetDateTime(field) + "";
+            {
+                //Cambio para evitar problemas localización
+                //val = rs.GetDateTime(field) + "";
+                val = ((DateTime)o).ToString("dd/MM/yyyy");
+            }                
             //Remove time (if exists)
             int ix = val.IndexOf(" ");
             if (ix != -1)

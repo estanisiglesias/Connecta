@@ -154,7 +154,7 @@ namespace ConnectaLib
     /// </summary>
     /// <param name="pd">objeto</param>
     public void ProcessMaster(CommonRecord rec)
-    {
+    {        
         string sUsuario = Constants.PREFIJO_USUARIO_AGENTE + agent;
 
         RecordProductosDistribuidor pd = (RecordProductosDistribuidor)rec;

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
-    <StartArguments>-sipagent=3 -siptype=sipInFacturasDistribuidor -xsipsqlid=AFVLALERTLOG -xsipfromupddate=%40before2m -xsiptoupddate=%40before2m -xsipfromdate=01/03/2014 -xsiptodate=31/01/2015 -xsipfileformat=TXT -xsipdealer=DS0078 -sipprovider=400000180 -XsipLockCode=ProductoNoExiste -XAutoSetTask -sipdatasource=ProductosFacturas -sipproductcode=250227700 -xsipsqlid=GBASIGNGPC -xsipincludeheaders -xsipfieldseparator=%3b -xsipfilename=FacturasParaFabricante.txt</StartArguments>
+    <StartArguments>-sipagent=3 -siptype=sipInProductosDistribuidor -xsipsqlid=AFVLALERTLOG -xsipfromupddate=%40before2m -xsiptoupddate=%40before2m -xsipfromdate=01/03/2014 -xsiptodate=31/01/2015 -xsipfileformat=TXT -xsipdealer=DS0078 -sipprovider=400000180 -XsipLockCode=ProductoNoExiste -XAutoSetTask -sipdatasource=ProductosFacturas -sipproductcode=250227700 -xsipsqlid=GBASIGNGPC -xsipincludeheaders -xsipfieldseparator=%3b -xsipfilename=FacturasParaFabricante.txt</StartArguments>
   </PropertyGroup>
 </Project>

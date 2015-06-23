@@ -21,3 +21,4 @@ C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\ConnectaLib\bin\Debug\NCalc.
 C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\ConnectaLib\bin\Debug\NPOI.dll
 C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\ConnectaLib\obj\Debug\ConnectaLib.dll
 C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\ConnectaLib\obj\Debug\ConnectaLib.pdb
+C:\Users\Estanis Iglesias\Documents\GitHub\Connecta\ConnectaLib\obj\Debug\ConnectaLib.csprojResolveAssemblyReference.cache
